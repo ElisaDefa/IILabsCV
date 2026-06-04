@@ -2,7 +2,7 @@
 ElevenLabs CV Generator
 =======================
 Run:  python generate_cv.py
-Out:  Eli_Desfassiaux_ElevenLabs_CV.html   (same directory)
+Out:  index.html   (same directory)
 
 To update the CV, only edit the CV_DATA dict below.
 The template and styling are handled automatically.
